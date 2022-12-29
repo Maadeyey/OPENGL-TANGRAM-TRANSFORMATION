@@ -1,0 +1,6 @@
+﻿  main2.cpp
+C:\Users\Monjolajesu\source\repos\cww1\cww1\main2.cpp(68,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Monjolajesu\source\repos\cww1\cww1\main2.cpp(101,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  shader.cpp
+  Generating Code...
+  cww1.vcxproj -> C:\Users\Monjolajesu\source\repos\cww1\x64\Debug\cww1.exe
